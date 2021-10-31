@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mana-Tap
-- 👀 I’m interested in Biology, Software Engineering, and exercise.
+- 👀 I’m interested in biology and software engineering.
 - 🌱 I’m currently learning python and have my sights set on swift next.
 - 💞️ I’m looking to collaborate on any future projects 
 - 📫 How to reach me: bat signal
